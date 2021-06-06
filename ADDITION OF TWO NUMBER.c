@@ -11,3 +11,4 @@ int main()
     getch();                                    //taking input from the user//
 
 }
+//this is our first c program//
