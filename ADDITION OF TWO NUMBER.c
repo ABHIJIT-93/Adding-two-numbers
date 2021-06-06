@@ -12,3 +12,5 @@ int main()
 
 }
 //this is our first c program//
+//this is our first c program//
+//this is our first c program//
